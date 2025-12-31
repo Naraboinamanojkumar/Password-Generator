@@ -38,3 +38,9 @@ To create a beginner-level Python application that generates random passwords us
 -->SAMPLE OUTPUT
 Enter the password length:5
 Generated Password:i/yx"
+
+-->AUTHOR
+NARABOINA MANOJ KUMAR
+
+--> INTERNSHIP
+This project is part of the Python Programming Internship at Oasis Infobyte
